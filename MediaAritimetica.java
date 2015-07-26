@@ -20,7 +20,7 @@ public class MediaAritimetica {
 		double nota4 = teclado.nextDouble();
 		
 		double media = (nota1 + nota2 + nota3 + nota4);
-		System.out.println("A média foi : "+ media);
+		System.out.println("A mÃ©dia aritimetica foi : "+ media);
 
 	}
 
