@@ -13,9 +13,12 @@ public class MediaDoAluno {
 		System.out.println("Entre com a segunda nota:");
 		double  nota2 = teclado.nextDouble();
 		
-		double media = (nota1 + nota2) / 2;
+		System.out.println("Entre com a terceira nota:");
+		double  nota3 = teclado.nextDouble();
+		
+		double media = (nota1 + nota2 + nota3) / 3;
 		if (media == 10 ){
-			System.out.println("Aprovado com distição");
+			System.out.println("Aprovado com distiÃ§Ã£o");
 		}else if( media >=7){
 			System.out.println("Aprovado");
 		}else{
