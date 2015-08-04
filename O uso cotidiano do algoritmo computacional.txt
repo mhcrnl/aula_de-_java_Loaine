@@ -1,0 +1,51 @@
+		O uso cotidiano do algoritmo computacional
+
+	Durante o nosso dia se deparamos com muita situações que precisamos 
+
+resolver alguns problemas. A resoluções desses problemas precisa de passos para 
+
+ser resolvido, estes passos e chamado de algoritmo.
+
+	Quando estamos fazendo compras ao chegar no caixa,o vendedor escanear 
+
+os produtos e o valor e exibido na tela em sua frente. Como isto acontecer? É 
+
+simples tem um algoritmo na maquina para executar esta tarefa, sem o algoritmo o 
+
+computador não faria nada, pode-se dizer que o algoritmo dar valor a maquina e 
+
+direcionar a auxiliar a nossa tarefas repititivas a fim de diminuir o tempo 
+
+gasto.
+	Os Smartfones que utilizamos e que muitos tem dependeria e diz que não 
+
+pode vive sem eles,são cheios de algoritmos,um exemplo é quando efetuar muitas 
+
+ligações, o número que mais ligado será exibidor entre os primeiro da listas de 
+
+contato para diminuir o tempo de buscar.
+	Os videos Games utilizados para entretenimento, possui fases para ser 
+
+superada, visando passa de fases deve-se segui passos estabelecido do criador do 
+
+software, caso contrario não conseguira ir para o próximo nível.Isto tudo e 
+
+algoritmo de uma linguagem de programação é que utilizado para criação dos 
+
+Jogos.
+	As Smart TV, televisões que tem acesso a internet, jogos, canais por 
+
+assinatura. Possui uma linguagem de programação para ter esse magníficos 
+
+detalhes.
+	
+	 hoje com o crescimento da tecnologia estamos cercados por algoritmos 
+
+computacionais que auxiliar nós e não percebemos, no trabalho quando bater o 
+
+ponto eletrônico, em casa quando assistimos TV e tomamos café utilizando a 
+
+cafeteira elertica, no mercado ao fazer compras e muito mais. 
+	
+	
+	
