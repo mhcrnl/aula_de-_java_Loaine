@@ -31,7 +31,7 @@ public class MediaAluno {
 
 		System.out.println("nota 1: " + nota1);
 		System.out.println("nota 2: " + nota2);
-		System.out.println("media " + media);
+		System.out.println("media : " + media);
 		System.out.println("aproveitamento " + aproveitamento);
 
 		switch (aproveitamento) {
